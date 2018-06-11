@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html>
+
+    <head>
+	    <title>www.senvente.com le e-commerce mondiale en afrique </title>
+	        <meta charset="utf-8"/>
+				<link rel="stylesheet" href="style1.css"/>
+	</head>
+	<!--ceci est mon commentaire -->
+	
+	<header class="header">
+
+<h1 class="h1">www.senvente.com<h1>
+
+</header>
+	
+	   <body> <p><marquee>BIENVENUE SUR SENVENTE SITE WEB EN CONSTRUCION</marquee></p>
+	
+	<!--<article><p>ceci est un site de vente en ligne</p>-->
+				
+				 </dl>
+		<footer>Copyright &copy; Senvente.com</footer>
+		
+
+	            </body>
+				
+				
+</html>
